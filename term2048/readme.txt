@@ -41,7 +41,7 @@ Resources
 
 Compiling Types		Size		Go Build
 ===================================================================
-Binary				(2.6MB)		go build main.go
+Binary			(2.6MB)		go build main.go
 Stripped Binary 	(1.8MB)		go build -ldflags="-s -w" main.go
 ===================================================================
 
