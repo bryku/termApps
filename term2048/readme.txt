@@ -1,6 +1,6 @@
 ### Game - 2048
 
-	The popular 2048 recreated to feed your terminal addiction.
+	The popular 2048 recreated to feed your terminal addiction in 1.8MB.
 
 ### Example
 
