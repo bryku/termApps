@@ -2,7 +2,7 @@
 
 The popular 2048 recreated to feed your terminal addiction in 1.8MB.
 
-![screenshot.png](https://raw.githubusercontent.com/bryku/termApps/master/term2048/screenshot.png)
+![example.png](https://raw.githubusercontent.com/bryku/termApps/master/term2048/example.png)
 
 ### Compile
 
